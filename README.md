@@ -1,6 +1,7 @@
 # Denoising_NonLinear_Using_MATLAB
 
 Unlock the power of advanced signal denoising techniques with our upcoming GitHub repository: "Signal Denoising by Nonlinear Optimization in MATLAB." This repository is your gateway to mastering the art of effectively removing noise from signals using cutting-edge nonlinear optimization methods.
+
 <img src="https://github.com/Pooria-Heydarian/Denoising_NonLinear_Using_MATLAB/assets/107268679/35fd5f4a-0513-4231-8db6-eae40564600b" alt="Before" width="49%">
 <img src="https://github.com/Pooria-Heydarian/Denoising_NonLinear_Using_MATLAB/assets/107268679/310ce6d6-69e3-47ad-9776-95ba8a793df8" alt= "After" width="49%">
 
